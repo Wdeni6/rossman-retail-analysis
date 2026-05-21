@@ -65,30 +65,6 @@ responsiveness.
 
 ---
 
-## Project Structure
-
-rossmann-retail-analysis/
-│
-├── data/                          # Data files (not included in repo)
-│   ├── train.csv                  # Raw training data
-│   ├── store.csv                  # Store metadata
-│   ├── train_cleaned.csv          # After cleaning
-│   ├── train_featured.csv         # After feature engineering
-│   ├── train_model_ready.csv      # Final model input
-│   └── predictions.csv            # Model output
-│
-├── notebooks/
-│   ├── 01_eda_and_cleaning.py     # Exploratory data analysis
-│   ├── 02_data_cleaning.py        # Data cleaning pipeline
-│   ├── 03_feature_engineering.py  # Feature construction
-│   ├── 04_modeling.py             # Forecasting model
-│   └── 05_pricing_analysis.py     # Pricing & markdown analysis
-│
-├── README.md
-└── README.pdf
-
----
-
 ## Data
 
 Dataset: [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data)  
