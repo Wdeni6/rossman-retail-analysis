@@ -1,9 +1,3 @@
----
-title: "Rossman Retail Analysis"
-date: "5/20/2026"
-output: pdf_document
----
-
 # Rossmann Retail Sales Intelligence
 ### Forecasting, Pricing Analysis & Markdown Optimization
 
